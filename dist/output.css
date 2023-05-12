@@ -1087,9 +1087,9 @@ body {
   background-color: rgb(161 98 7 / var(--tw-bg-opacity));
 }
 
-.hover\:text-cyan-500:hover {
+.hover\:text-primary:hover {
   --tw-text-opacity: 1;
-  color: rgb(6 182 212 / var(--tw-text-opacity));
+  color: rgb(161 98 7 / var(--tw-text-opacity));
 }
 
 .hover\:text-white:hover {
